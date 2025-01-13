@@ -35,6 +35,45 @@ Eooten support those plugins:
 10. Easy Digital Download
 
 
+
+
+
+### Added
+- Mobile Offcanvas menu background change option added
+- Booked widget added
+
+### Fixed
+- Fixed some minor issues in CSS style
+- Fix some options in contact form 7 widget
+- Fix Testimonials carousel widget option
+- Fix Testimonials Slider widget option
+
+
+## 1.1.0 [04 January 2025]
+
+### Added
+- Flip box element added
+- Panel Slider element added
+- Contact Form 7 element added
+- Image Compare element added
+- Trailer Box element added
+- Instagram element added
+
+### Fixed
+- Woocommerce Image gallery fixed
+- Image Gallery lightbox issue fixed
+- Elementor back to wrong page fixed
+- Fixes some minor issues in JavaScript and CSS
+- Refine some coding structure
+
+### Language
+- Language file updated
+
+
+## 1.0.0 [12 January 2025]
+- Initial release
+
+
 == Credits ==
 
 * Based on Underscores http://underscores.me/, (C) 2012-2016 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)

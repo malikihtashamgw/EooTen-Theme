@@ -36,7 +36,15 @@ Eooten support those plugins:
 
 
 
+### Added
+- Brand new demo importer with separated demo installation option added.
 
+### Updated
+- Offcanvas color now you can change from customizer
+- UiKit Updated to latest version
+- Many small improvement we did.
+
+## 1.1.1 [15 January 2025]
 
 ### Added
 - Mobile Offcanvas menu background change option added
@@ -49,7 +57,7 @@ Eooten support those plugins:
 - Fix Testimonials Slider widget option
 
 
-## 1.1.0 [04 January 2025]
+## 1.1.0 [14 January 2025]
 
 ### Added
 - Flip box element added

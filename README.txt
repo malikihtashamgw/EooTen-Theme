@@ -36,6 +36,10 @@ Eooten support those plugins:
 
 
 
+
+
+##1.2.3 [19 January 2025]
+
 ### Added
 - Brand new demo importer with separated demo installation option added.
 
